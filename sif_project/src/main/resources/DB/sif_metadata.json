@@ -1,0 +1,30 @@
+{
+    "METADATA": {
+        "FORMAT_VERSION": 1,
+        "REVISION": "$Id$",
+        "ORGANIZATION": "NGS",
+        "SOURCE_FILES": [
+            "/ngslib/data/GPS/cors_20.bin",
+            "/ngs/projects/trf/repro3/proc_fin/mycs3/source_files/MYCS3_final.snx",
+            "/ngs/projects/trf/repro3/proc_fin/mycs3/source_files/MYCS3_final.snx",
+            "/ngs/projects/trf/repro3/proc_fin/mycs3/source_files/seasonal_terms_geocenter_corrected.txt"
+        ],
+        "REFERENCE_FRAME": "ITRF2020",
+        "REFERENCE_EPOCH": 2020,
+        "ANTENNA_ORIENTATION_UNITS": "deg",
+        "ANTENNA_ARP_MINUS_GRP_ENU_UNITS": "m",
+        "COORDINATE_UNITS": "m",
+        "VELOCITY_UNITS": "mm/y",
+        "AUTO_COVARIANCE_UNITS_COORDINATES": "mm_sq",
+        "AUTO_COVARIANCE_UNITS_VELOCITIES ": "mm_sq/yr_sq",
+        "CROSS_COVARIANCE_UNITS_COORDINATES_VELOCITIES ": "mm_sq/yr",
+        "OPT_UNITS": "m",
+        "OTL_MODEL": "FES2014B",
+        "OTL_AMPLITUDE_UNITS": "m",
+        "OTL_PHASE_UNITS": "deg",
+        "PERIOD_UNITS": "y",
+        "PERIODIC_COEFF_UNITS": "mm",
+        "PSD_COEFF_UNITS": "m",
+        "PSD_TIME_UNITS": "y"
+    }
+}
